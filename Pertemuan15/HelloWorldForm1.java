@@ -1,5 +1,7 @@
 package Pertemuan15;
 
+// latihan 1-1
+
 import javax.swing.JFrame;     // Import kelas JFrame dari library Swing
 import javax.swing.JLabel;     // Import kelas JLabel dari library Swing
 

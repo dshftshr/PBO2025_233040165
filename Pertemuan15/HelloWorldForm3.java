@@ -1,5 +1,7 @@
 package Pertemuan15;
 
+// latihan 1-3
+
 import javax.swing.*;         // Untuk komponen GUI seperti JFrame, JLabel, JButton
 import java.awt.*;            // Untuk layout seperti GridLayout
 import java.awt.event.*;      // Untuk event listener seperti ActionListener dan ActionEvent

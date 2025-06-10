@@ -1,5 +1,7 @@
 package Pertemuan15;
 
+// latihan 1-2
+
 import javax.swing.JFrame;                         // Mengimpor kelas JFrame
 
 public class ProgramUtama {                        // Kelas utama untuk menjalankan program

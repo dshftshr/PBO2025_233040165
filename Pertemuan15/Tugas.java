@@ -1,10 +1,11 @@
 package Pertemuan15;
 
+//Kasus 2-1
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-// Kasus 2-1
 public class tugas extends JFrame {
     private JTextField txt1, txt2;     // Dua input field
     private JButton btnJumlah;         // Tombol untuk menjumlahkan
